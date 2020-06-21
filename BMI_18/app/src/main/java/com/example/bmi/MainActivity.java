@@ -57,6 +57,12 @@ public class MainActivity extends AppCompatActivity {
 
             Intent intent = new Intent();  //  建立意圖物件
             intent.setClass(MainActivity.this, report.class);  // 設定下一個要執行的Activity
+
+            Bundle bundle = new Bundle();	// 建立Bundle儲存要給下一個Activity的資料
+            bundle.putString("KEY_HEIGHT", fieldheight.getText().toString());
+            bundle.putString("KEY_WEIGHT", fieldweight.getText().toString());
+            intent.putExtras(bundle);
+
             startActivity(intent); // 啟動執行下一個Activity
 
 
@@ -107,5 +113,4 @@ public class MainActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
-
 }
