@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_CheckBox</string>
+
+    <string name="shopping_list">我的採購單</string>
+    <string name="air_ticket">泰國機票一張</string>
+    <string name="iphone">iPhone一台</string>
+    <string name="android_book">Android整合應用範例集一本</string>
+</resources>

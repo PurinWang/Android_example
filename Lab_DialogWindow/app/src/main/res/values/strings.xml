@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_DialogWindow</string>
+    <string name="dialog_text">Enter Name and Password</string>
+    <string name="dialog_username">Name:</string>
+    <string name="dialog_password">Password:</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
