@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_height">身高 (cm)</string>
+    <string name="bmi_weight">體重 (kg)</string>
+    <string name="bmi_btn">計算 BMI 值</string>
+    <string name="bmi_result">你的 BMI 值是 </string>
+    <string name="about_title">關於 Android BMI</string>
+    <string name="about_msg">Android BMI Calc</string>
+    <string name="input_error">打錯了嗎？只能輸入數字喔</string>
+    <string name="homepage_label">首頁</string>
+
+    <string-array name="feets">
+        <item>2 Feet</item>
+        <item>3 Feet</item>
+        <item>4 Feet</item>
+        <item>5 Feet</item>
+        <item>6 Feet</item>
+        <item>7 Feet</item>
+        <item>8 Feet</item>
+    </string-array>
+    <string-array name="inches">
+        <item>0 Inch</item>
+        <item>1 Inch</item>
+        <item>2 Inches</item>
+        <item>3 Inches</item>
+        <item>4 Inches</item>
+        <item>5 Inches</item>
+        <item>6 Inches</item>
+        <item>7 Inches</item>
+        <item>8 Inches</item>
+        <item>9 Inches</item>
+        <item>10 Inches</item>
+        <item>11 Inches</item>
+    </string-array>
+
+
+</resources>
