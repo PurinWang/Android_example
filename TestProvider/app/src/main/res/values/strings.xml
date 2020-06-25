@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestProvider</string>
+    <string name="hello">Hello World, ProvideTest!</string>
+
+</resources>
