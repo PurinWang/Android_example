@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialup</string>
+    <string name="hello">Hello World, Dialup</string>
+    <string name="str_button1">撥打電話</string>
+</resources>
