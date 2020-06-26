@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_SharedPreferences</string>
+    <string name="app_write">Write</string>
+    <string name="app_read">Read</string>
+    <string name="app_clear">Clear</string>
+    <string name="hello">Hello World, SharedPreferences01!</string>
+</resources>
