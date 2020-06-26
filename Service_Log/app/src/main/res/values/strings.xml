@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Service_Log</string>
+    <string name="hello">Hello World, TestService</string>
+    <string name="str_button1">開始Service</string>
+    <string name="str_button2">終止Service</string>
+</resources>
